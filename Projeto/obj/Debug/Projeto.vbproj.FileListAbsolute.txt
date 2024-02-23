@@ -1,0 +1,17 @@
+C:\Users\joaox\source\repos\AS\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\joaox\source\repos\AS\Projeto\bin\Debug\Projeto.exe
+C:\Users\joaox\source\repos\AS\Projeto\bin\Debug\Projeto.pdb
+C:\Users\joaox\source\repos\AS\Projeto\bin\Debug\Projeto.xml
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.vbproj.AssemblyReference.cache
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.vbproj.SuggestedBindingRedirects.cache
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.Resources.resources
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.vbproj.GenerateResource.cache
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.vbproj.CoreCompileInputs.cache
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.exe
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.xml
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.pdb
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.frmPrincipal.resources
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.Utilizador_Gridview.resources
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.Setor_Gridview.resources
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.Utilizadores_Textbox.resources
+C:\Users\joaox\source\repos\AS\Projeto\obj\Debug\Projeto.Utilizador_Combobox.resources
